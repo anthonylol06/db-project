@@ -1,0 +1,5 @@
+cli/*.class
+models/*.class
+models/db/*.class
+models/file/*.class
+*.class
